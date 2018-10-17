@@ -1,0 +1,1 @@
+gcc mcJSON.c test.c -o test -lm -g
